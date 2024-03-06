@@ -7,3 +7,4 @@ jupyter
 Pyarrow
 IPython
 xgboost
+missingno
