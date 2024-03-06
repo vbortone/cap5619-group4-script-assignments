@@ -8,3 +8,4 @@ Pyarrow
 IPython
 xgboost
 missingno
+graphviz
